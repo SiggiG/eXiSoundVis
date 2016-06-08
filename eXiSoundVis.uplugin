@@ -12,6 +12,7 @@
 		{
 			"Name" : "eXiSoundVis",
 			"Type" : "Runtime"
+			"LoadingPhase" : "PreDefault"
 		}
 	]
 }
